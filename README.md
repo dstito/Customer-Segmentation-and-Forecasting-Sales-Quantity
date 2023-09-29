@@ -17,7 +17,7 @@ This repository contains a final project from Project Based Internship by Rakami
      - Worksheet 4: The number of total amount by store name.
 
 ## Results
-- The summary results can be seen in [PDF file](https://github.com/dstito/Customer-Segmentation-and-Forecasting-Sales-Quantity/blob/main/Presentation%20Final%20Project.pdf).
+- Summary results can be seen in [PDF file](https://github.com/dstito/Customer-Segmentation-and-Forecasting-Sales-Quantity/blob/main/Presentation%20Final%20Project.pdf).
 - SQL query challenge can be seen [here](https://github.com/dstito/Customer-Segmentation-and-Forecasting-Sales-Quantity/blob/main/SQL%20query/Script%20-%20Challenge%20SQL%20query.sql).
 - Tableau dashboard challenge can be seen via [Tableau Public](https://public.tableau.com/app/profile/tito5892/viz/Challenge_16954683258160/Dashboard1).
 - There is also Sales Analysis by Customer Segmentation dashboard on [Tableau Public](https://public.tableau.com/app/profile/tito5892/viz/shared/CG5HZHQRK) to help us getting better understanding the customer segments.
