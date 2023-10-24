@@ -1,4 +1,4 @@
-# Customer-Segmentation-and-Forecasting-Sales-Quantity
+# Overview
 This repository contains a final project from Project Based Internship by Rakamin Academy x Kalbe Nutritionals.
 
 ## Objectives
